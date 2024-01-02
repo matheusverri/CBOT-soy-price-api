@@ -1,1 +1,1 @@
-web: ruby soy-crawler.rb -p $PORT
+web: unicorn -p $PORT -c ./config/unicorn.rb

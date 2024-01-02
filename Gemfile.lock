@@ -1,5 +1,6 @@
 GEM
   specs:
+    kgio (2.11.4)
     mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
     nokogiri (1.15.5-x86_64-linux)
@@ -8,6 +9,7 @@ GEM
     rack (2.2.8)
     rack-protection (3.1.0)
       rack (~> 2.2, >= 2.2.4)
+    raindrops (0.20.1)
     ruby2_keywords (0.0.5)
     sinatra (3.1.0)
       mustermann (~> 3.0)
@@ -15,6 +17,9 @@ GEM
       rack-protection (= 3.1.0)
       tilt (~> 2.0)
     tilt (2.3.0)
+    unicorn (6.1.0)
+      kgio (~> 2.6)
+      raindrops (~> 0.7)
 
 PLATFORMS
   x86_64-linux
@@ -22,6 +27,7 @@ PLATFORMS
 DEPENDENCIES
   nokogiri
   sinatra
+  unicorn
 
 BUNDLED WITH
    2.4.10
