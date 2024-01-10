@@ -1,2 +1,2 @@
-require './soy-crawler.rb'
+require './soy-crawler'
 run Sinatra::Application
