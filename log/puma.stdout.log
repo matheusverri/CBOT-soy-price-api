@@ -1,0 +1,6 @@
+=== puma startup: 2024-01-10 15:50:55 +0000 ===
+[42091] - Worker 0 (PID: 42092) booted in 0.63s, phase: 0
+[42091] - Worker 1 (PID: 42094) booted in 0.64s, phase: 0
+[42091] - Gracefully shutting down workers...
+[42091] === puma shutdown: 2024-01-10 15:51:23 +0000 ===
+[42091] - Goodbye!
