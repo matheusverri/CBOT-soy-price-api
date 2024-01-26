@@ -7,18 +7,23 @@ set :protection, except: :json_csrf
 
 scheduler = Rufus::Scheduler.new
 
-scheduler.every '3s' do
-  puts 'Hello... Rufus'
+price = nil
+variation = nil
+paranagua_price = nil
+
+scheduler.every '5m' do
+  #CBOT
+  doc = Nokogiri::HTML(URI.open('https://br.investing.com/commodities/us-soybeans'))
+  price_and_variation = doc.css('div.gap-x-4').css('.font-bold')
+  price = price_and_variation.first.content
+  variation = price_and_variation[1].content
+
+  # PARANAGUÁ
+  paranagua_doc = Nokogiri::HTML(URI.open('https://www.noticiasagricolas.com.br/cotacoes/soja'))
+  paranagua_price = paranagua_doc.css('div.cotacao').css('table.cot-fisicas').css('td')[1].content
+
+  puts 'Preço Atualizado - ' + Time.now.to_s
 end
-
-doc = Nokogiri::HTML(URI.open('https://br.investing.com/commodities/us-soybeans'))
-price_and_variation = doc.css('div.gap-x-4').css('.font-bold')
-price = price_and_variation.first.content
-variation = price_and_variation[1].content
-
-# PARANAGUÁ
-paranagua_doc = Nokogiri::HTML(URI.open('https://www.noticiasagricolas.com.br/cotacoes/soja'))
-paranagua_price = paranagua_doc.css('div.cotacao').css('table.cot-fisicas').css('td')[1].content
 
 get '/' do
   content_type :json
