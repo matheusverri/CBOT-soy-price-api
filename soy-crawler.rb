@@ -27,24 +27,29 @@ end
 
 get '/' do
   content_type :json
-  { Price: price,
+  {
+    Location: 'Chicago CBOT',
+    Price: price,
+    Unit: 'US$/Bu',
     Variation: variation
   }.to_json
 end
 
 get '/cbot-price' do
   content_type :json
-  { Price: price }.to_json
-end
-
-get '/cbot-variation' do
-  content_type :json
-  { Variation: variation }.to_json
+  {
+    Location: 'Chicago CBOT',
+    Price: price,
+    Unit: 'US$/Bu',
+    Variation: variation
+  }.to_json
 end
 
 get '/paranagua-price' do
   content_type :json
-  { paranagua_price: paranagua_price }.to_json
+  {
+    Location: 'Paranaguá',
+    Paranagua_price: paranagua_price,
+    unit: 'R$/SC60kg'
+  }.to_json
 end
-
-
