@@ -10,3 +10,241 @@
 [3144] - Gracefully shutting down workers...
 [3144] === puma shutdown: 2024-01-10 17:15:06 +0000 ===
 [3144] - Goodbye!
+=== puma startup: 2024-02-05 16:35:15 +0000 ===
+[5929] + Gemfile in context: /workspaces/CBOT-soy-price-api/Gemfile
+[5927] - Worker 0 (PID: 5929) booted in 0.0s, phase: 0
+[5932] + Gemfile in context: /workspaces/CBOT-soy-price-api/Gemfile
+[5927] - Worker 1 (PID: 5932) booted in 0.0s, phase: 0
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:18 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:20 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:21 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:24 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:26 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:28 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:29 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:32 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:33 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:35 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:38 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:39 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:42 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:44 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:46 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:48 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:50 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:51 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:53 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:56 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:57 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:35:59 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:36:02 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:36:03 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:36:06 +0000
+[5927] - Gracefully shutting down workers...
+[5927] === puma shutdown: 2024-02-05 16:36:06 +0000 ===
+[5927] - Goodbye!
+=== puma startup: 2024-02-05 16:36:39 +0000 ===
+[6549] + Gemfile in context: /workspaces/CBOT-soy-price-api/Gemfile
+[6547] - Worker 0 (PID: 6549) booted in 0.0s, phase: 0
+[6552] + Gemfile in context: /workspaces/CBOT-soy-price-api/Gemfile
+[6547] - Worker 1 (PID: 6552) booted in 0.0s, phase: 0
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:36:43 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:36:46 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:36:49 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:36:52 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:36:55 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:36:58 +0000
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:37:01 +0000
+[6547] - Gracefully shutting down workers...
+[6547] === puma shutdown: 2024-02-05 16:37:03 +0000 ===
+[6547] - Goodbye!
+=== puma startup: 2024-02-05 16:37:21 +0000 ===
+[6927] + Gemfile in context: /workspaces/CBOT-soy-price-api/Gemfile
+[6925] - Worker 0 (PID: 6927) booted in 0.0s, phase: 0
+[6930] + Gemfile in context: /workspaces/CBOT-soy-price-api/Gemfile
+[6925] - Worker 1 (PID: 6930) booted in 0.0s, phase: 0
+<tr>
+<td>Porto Santos/SP (Mar/Abr - 2024) (Dellagro)</td>
+<td>118,00</td>
+<td>+2,61</td>
+</tr>
+Preço Atualizado - 2024-02-05 16:37:25 +0000
+[6925] - Gracefully shutting down workers...
+[6925] === puma shutdown: 2024-02-05 16:37:53 +0000 ===
+[6925] - Goodbye!
+=== puma startup: 2024-02-05 16:38:31 +0000 ===
+[7463] + Gemfile in context: /workspaces/CBOT-soy-price-api/Gemfile
+[7460] - Worker 0 (PID: 7463) booted in 0.0s, phase: 0
+[7466] + Gemfile in context: /workspaces/CBOT-soy-price-api/Gemfile
+[7460] - Worker 1 (PID: 7466) booted in 0.0s, phase: 0
+[7460] - Gracefully shutting down workers...
+[7460] === puma shutdown: 2024-02-05 16:39:11 +0000 ===
+[7460] - Goodbye!
+=== puma startup: 2024-02-05 16:39:15 +0000 ===
+[7841] + Gemfile in context: /workspaces/CBOT-soy-price-api/Gemfile
+[7828] - Worker 0 (PID: 7841) booted in 0.0s, phase: 0
+[7842] + Gemfile in context: /workspaces/CBOT-soy-price-api/Gemfile
+[7828] - Worker 1 (PID: 7842) booted in 0.0s, phase: 0
+[7828] - Gracefully shutting down workers...
+[7828] === puma shutdown: 2024-02-05 16:39:22 +0000 ===
+[7828] - Goodbye!
